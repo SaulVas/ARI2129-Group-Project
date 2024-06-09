@@ -305,12 +305,21 @@ Chat GPT contributed to the following sections of our project:
 
 ### Nick:
 
-The use of generative AI significantly enhanced my understanding of the project requirements and provided clear guidance on how to execute tasks effectively. The ability to attach documents, code, screenshots, and other resources makes this tool highly versatile, essentially acting as a personal tutor with answers to almost any question. I was particularly impressed by its speed and accuracy, especially in recognizing and processing screenshots and user interfaces.
+The use of generative AI significantly enhanced my understanding of the project requirements and provided clear guidance on how to execute tasks effectively. The ability to attach documents, code, screenshots, and other resources makes this tool highly versatile, essentially acting as a personal tutor with answers to almost any question. I was particularly impressed by its speed and accuracy, especially in recognising and processing screenshots and user interfaces.
 
-My experience with this assignment has reinforced my belief that AI should be permitted in academic projects due to its powerful capabilities. While there is a concern that some students might misuse AI by merely prompting it for answers without further thought, I believe that learning to effectively utilize AI is a valuable skill. This assignment has cemented my view that AI can greatly benefit academic work when used responsibly and thoughtfully.
+My experience with this assignment has reinforced my belief that AI should be permitted in academic projects due to its powerful capabilities. While there is a concern that some students might misuse AI by merely prompting it for answers without further thought, I believe that learning to effectively utilise AI is a valuable skill. This assignment has cemented my view that AI can greatly benefit academic work when used responsibly and thoughtfully.
 
 ### Saul
 
-Reflecting on my experience using generative AI in my academic project, I found it both enlightening and transformative. AI's versatility in automating tasks and analyzing large datasets was invaluable, allowing more time for critical thinking. I was surprised by the sophistication and accuracy of AI models, which exceeded my expectations. This experience highlighted the importance of understanding AI's limitations and using it to augment, not replace, human judgment.
+Reflecting on my experience using generative AI in my academic project, I found it both enlightening and transformative. AI's versatility in automating tasks and analysing large datasets was invaluable, allowing more time for critical thinking. I was surprised by the sophistication and accuracy of AI models, which exceeded my expectations. This experience highlighted the importance of understanding AI's limitations and using it to augment, not replace, human judgment.
 
-My perspective on AI in academic projects has evolved from seeing it as a supplementary tool to recognizing it as a transformative technology. It has the potential to reshape research methodologies, but it also requires careful ethical considerations and transparency. Overall, this experience has made me more optimistic about AI's role in driving academic innovation and discovery.
+My perspective on AI in academic projects has evolved from seeing it as a supplementary tool to recognising it as a transformative technology. It has the potential to reshape research methodologies, but it also requires careful ethical considerations and transparency. Overall, this experience has made me more optimistic about AI's role in driving academic innovation and discovery.
+
+### Luca
+
+Reflecting on my use of generative AI in this project, I found it to be an immensely powerful tool. The AI's instant, detailed explanations and code snippets made complex tasks more approachable, and its proficiency in handling diverse questions and generating accurate responses made it a vital resource.
+
+This AI-supported assignment has deepened my understanding of its potential in academics. While concerns about misuse exist, I believe responsible use of AI can greatly enrich learning. This project reinforced my belief that mastering AI tools is essential for future pursuits, offering efficiency and innovation.
+
+AI's ability to automate tasks and provide advanced analytics allowed me to focus more on critical thinking and problem-solving. This experience has improved my technical skills and emphasised the importance of ethical AI use. Overall, I am optimistic about AI's role in education, seeing it as a catalyst for innovation and a valuable academic ally.
+
