@@ -1,120 +1,120 @@
-buddha_colour_saturated_1.5.jpeg: 0.9992202473780265
+buddha_colour_saturated_1.5.jpeg: 0.9977504243945872
 
-buddha_colour_brightened_2.0.jpeg: 0.8231497973963382
+buddha_colour_brightened_2.0.jpeg: 0.9511899341734003
 
-tajin_colour_flipped_vertical.jpeg: 1.0
+tajin_colour_flipped_vertical.jpeg: 0.9999094151098544
 
-buddha_colour_brightened_0.5.jpeg: 0.9529734702794235
+buddha_colour_brightened_0.5.jpeg: 0.9907473076256899
 
-macbook_colour_saturated_0.5.jpeg: 0.9966796913973659
+macbook_colour_saturated_0.5.jpeg: 0.9933166261379309
 
-dl_book_colour_brightened_0.5.jpeg: 0.990413991311965
+dl_book_colour_brightened_0.5.jpeg: 0.9920402746110856
 
-lp_world_colour_contrast_2.0.jpeg: 0.9989867197697653
+lp_world_colour_contrast_2.0.jpeg: 0.9554330398169275
 
-lp_world_colour_contrast_0.5.jpeg: 0.9938766146472087
+lp_world_colour_contrast_0.5.jpeg: 0.9378049487216751
 
-dl_book_colour_translated_30_50.jpeg: 1.0
+dl_book_colour_translated_30_50.jpeg: 0.9978899324388919
 
-dl_book_colour_rotated_180.jpeg: 0.9708106728005539
+dl_book_colour_rotated_180.jpeg: 0.9719812290410986
 
-tajin_colour_saturated_1.5.jpeg: 0.998468635682406
+tajin_colour_saturated_1.5.jpeg: 0.9960967710313156
 
-lp_world_colour_saturated_0.5.jpeg: 0.9934060025901192
+lp_world_colour_saturated_0.5.jpeg: 0.9856090957261219
 
-dl_book_colour_translated_10_20.jpeg: 0.9999999999999358
+dl_book_colour_translated_10_20.jpeg: 0.9973112609268913
 
-macbook_colour_flipped_horizontal.jpeg: 1.0
+macbook_colour_flipped_horizontal.jpeg: 0.9998551347813078
 
-tajin_colour_brightened_0.5.jpeg: 0.933254608590525
+tajin_colour_brightened_0.5.jpeg: 0.9950185136669101
 
-dl_book_colour_saturated_0.5.jpeg: 0.9945072050758152
+dl_book_colour_saturated_0.5.jpeg: 0.988989217010966
 
-dl_book_colour_saturated_1.5.jpeg: 0.9979227760629376
+dl_book_colour_saturated_1.5.jpeg: 0.9950324001742756
 
-buddha_colour_translated_10_20.jpeg: 1.0
+buddha_colour_translated_10_20.jpeg: 0.9969093588960934
 
-tajin_colour_rotated_180.jpeg: 0.9802611515968178
+tajin_colour_rotated_180.jpeg: 0.9738250354949266
 
-dl_book_colour_brightened_2.0.jpeg: 0.9874516361445039
+dl_book_colour_brightened_2.0.jpeg: 0.9928663316876847
 
-dl_book_colour_contrast_0.5.jpeg: 0.9898123953527982
+dl_book_colour_contrast_0.5.jpeg: 0.9364434126765929
 
-lp_world_colour_flipped_vertical.jpeg: 1.0
+lp_world_colour_flipped_vertical.jpeg: 0.9998935633304774
 
-tajin_colour_brightened_2.0.jpeg: 0.9870058390024795
+tajin_colour_brightened_2.0.jpeg: 0.9942277152099921
 
-macbook_colour_translated_10_20.jpeg: 1.0
+macbook_colour_translated_10_20.jpeg: 0.9977512812022342
 
-macbook_colour_rotated_90.jpeg: 0.8948374303697684
+macbook_colour_rotated_90.jpeg: 0.9989192049920855
 
-buddha_colour_saturated_0.5.jpeg: 0.997701814322556
+buddha_colour_saturated_0.5.jpeg: 0.9922868238804489
 
-buddha_colour_contrast_0.5.jpeg: 0.9865723109008198
+buddha_colour_contrast_0.5.jpeg: 0.9364953558394352
 
-macbook_colour_brightened_0.5.jpeg: 0.985161101638036
+macbook_colour_brightened_0.5.jpeg: 0.9931289235920808
 
-dl_book_colour_flipped_horizontal.jpeg: 0.9999999999998306
+dl_book_colour_flipped_horizontal.jpeg: 0.9998589743245696
 
-lp_world_colour_translated_30_50.jpeg: 0.9999999999999125
+lp_world_colour_translated_30_50.jpeg: 0.99856915002376
 
-lp_world_colour_brightened_2.0.jpeg: 0.9863999303029463
+lp_world_colour_brightened_2.0.jpeg: 0.9862050512624521
 
-macbook_colour_saturated_1.5.jpeg: 0.9991097991773913
+macbook_colour_saturated_1.5.jpeg: 0.9975407402527472
 
-macbook_colour_translated_30_50.jpeg: 0.9999999999997352
+macbook_colour_translated_30_50.jpeg: 0.9984287964812518
 
-lp_world_colour_flipped_horizontal.jpeg: 1.0
+lp_world_colour_flipped_horizontal.jpeg: 0.9998822279293001
 
-buddha_colour_flipped_horizontal.jpeg: 0.9999999999997786
+buddha_colour_flipped_horizontal.jpeg: 0.9997816620143739
 
-macbook_colour_rotated_180.jpeg: 0.9924882113972262
+macbook_colour_rotated_180.jpeg: 0.9930033977523309
 
-dl_book_colour_flipped_vertical.jpeg: 1.0
+dl_book_colour_flipped_vertical.jpeg: 0.999872043316193
 
-lp_world_colour_saturated_1.5.jpeg: 0.9964012521920073
+lp_world_colour_saturated_1.5.jpeg: 0.9936735919889206
 
-tajin_colour_saturated_0.5.jpeg: 0.997218823960397
+tajin_colour_saturated_0.5.jpeg: 0.9920134069861877
 
-tajin_colour_translated_30_50.jpeg: 1.0
+tajin_colour_translated_30_50.jpeg: 0.9986058869769754
 
-tajin_colour_flipped_horizontal.jpeg: 1.0
+tajin_colour_flipped_horizontal.jpeg: 0.99990253174572
 
-tajin_colour_contrast_0.5.jpeg: 0.9938478007994349
+tajin_colour_contrast_0.5.jpeg: 0.9428165103496648
 
-buddha_colour_contrast_2.0.jpeg: 0.9996928743386673
+buddha_colour_contrast_2.0.jpeg: 0.9483491425528454
 
-dl_book_colour_contrast_2.0.jpeg: 0.9989658472449435
+dl_book_colour_contrast_2.0.jpeg: 0.9537274104273332
 
-lp_world_colour_rotated_180.jpeg: 0.9881375319536626
+lp_world_colour_rotated_180.jpeg: 0.9876592266562696
 
-lp_world_colour_rotated_90.jpeg: 0.721684572628958
+lp_world_colour_rotated_90.jpeg: 0.9963340101613245
 
-macbook_colour_flipped_vertical.jpeg: 1.0
+macbook_colour_flipped_vertical.jpeg: 0.9998792867284101
 
-tajin_colour_translated_10_20.jpeg: 0.999999999999815
+tajin_colour_translated_10_20.jpeg: 0.998267272422891
 
-dl_book_colour_rotated_90.jpeg: 0.8188053831563114
+dl_book_colour_rotated_90.jpeg: 0.9906991010261856
 
-lp_world_colour_translated_10_20.jpeg: 0.9999999999999132
+lp_world_colour_translated_10_20.jpeg: 0.9981167151546495
 
-tajin_colour_rotated_90.jpeg: 0.5238218654094873
+tajin_colour_rotated_90.jpeg: 0.992473227857493
 
-macbook_colour_brightened_2.0.jpeg: 0.9936786676653504
+macbook_colour_brightened_2.0.jpeg: 0.999410850776757
 
-buddha_colour_rotated_90.jpeg: 0.9115608128974957
+buddha_colour_rotated_90.jpeg: 0.9983660468219826
 
-lp_world_colour_brightened_0.5.jpeg: 0.9905896515360137
+lp_world_colour_brightened_0.5.jpeg: 0.9945058161129994
 
-buddha_colour_rotated_180.jpeg: 0.981369798342363
+buddha_colour_rotated_180.jpeg: 0.9784485376802984
 
-tajin_colour_contrast_2.0.jpeg: 0.9989200421446731
+tajin_colour_contrast_2.0.jpeg: 0.9709173749393627
 
-macbook_colour_contrast_0.5.jpeg: 0.9997573823174446
+macbook_colour_contrast_0.5.jpeg: 0.9477140754317523
 
-buddha_colour_flipped_vertical.jpeg: 0.9999999999997025
+buddha_colour_flipped_vertical.jpeg: 0.9997867869564403
 
-macbook_colour_contrast_2.0.jpeg: 0.9986668636842797
+macbook_colour_contrast_2.0.jpeg: 0.9342006169375852
 
-buddha_colour_translated_30_50.jpeg: 0.9999999999997552
+buddha_colour_translated_30_50.jpeg: 0.9980011965825497
 
