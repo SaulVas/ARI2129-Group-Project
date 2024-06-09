@@ -1,10 +1,10 @@
 # Generative AI Journal
 
-## Introduction
+## Introduction
 
 For our project we all used chat GPT 4 and github co-pilot. We opted for these models over Gemini since we all already have paid subscriptions with OpenAI and it is more convenient to stick with what we have then change. As for github co-pilot, as students we get access to it for free, so it is a no brainer to make use of it.
 
-## Ethical Considerations
+## Ethical Considerations
 
 A few of the ethical considerations of using generative AI in an academic project are:
 
@@ -21,7 +21,7 @@ When doing an academic project one must first ask himself the following question
 
 For this project we felt like it was a bit of both. Thus we deemed it ok to use generative ai as a personal tutor to explain the core concepts behind some of the data augmentation techniques, aswell as having it correct our implementations once we had tried them at least once ourselves.
 
-## Methodology
+## Methodology
 
 We made use of generative AI at 2 key stages of our project.
 
@@ -29,9 +29,9 @@ Before attempting to answer a question we would show chat GPT what was being ask
 
 Next after attempting to tackle the question ourselves, we would feed chat gpt our answers and ask him to optimize and correct them. This process allowed us to experience the trial and error loop while still obtaining finely optimized answers to each question.
 
-## Prompts and Responses
+## Prompts and Responses
 
-### Prompt
+### Prompt
 
 Explain how augment an images brightness from base principles using open cv and numpy
 
@@ -117,7 +117,7 @@ Here's a step-by-step Python code example to illustrate this process:
 
 This approach provides a clear and effective way to augment the brightness of an image using basic principles with OpenCV and NumPy.
 
-### Prompt
+### Prompt
 
 I want to create a function that affects the brightness using some multiplier
 
@@ -301,7 +301,7 @@ Chat GPT contributed to the following sections of our project:
 2. Debugging: Using Gen-AI we were able to efficiently debug our work.
 3. Optimizing: For the sections above, AI was used to optimize our final solution to make sure it ran as fast as possible.
 
-## Individual Reflection
+## Individual Reflection
 
 ### Nick:
 
@@ -322,4 +322,3 @@ Reflecting on my use of generative AI in this project, I found it to be an immen
 This AI-supported assignment has deepened my understanding of its potential in academics. While concerns about misuse exist, I believe responsible use of AI can greatly enrich learning. This project reinforced my belief that mastering AI tools is essential for future pursuits, offering efficiency and innovation.
 
 AI's ability to automate tasks and provide advanced analytics allowed me to focus more on critical thinking and problem-solving. This experience has improved my technical skills and emphasised the importance of ethical AI use. Overall, I am optimistic about AI's role in education, seeing it as a catalyst for innovation and a valuable academic ally.
-
